@@ -1,0 +1,74 @@
+.nav {
+    background-color: black;
+}
+
+.jumbotron {
+    background-image: url("../Images/green-leave-pexels.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+
+.content-holder-hero {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -100%);
+    width: fit-content;
+}
+
+.nav-link {
+    color: white;
+}
+
+.lato {
+    font-family: 'Lato', sans-serif;
+    font-size: 90px;
+}
+
+.oswald {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card {
+    width: 20rem;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-subtitle {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-text {
+    font-weight: 200;
+    font-family: 'Oswald', sans-serif;
+}
+
+.project-card {
+    width: 32rem;
+}
+
+.pfp {
+    border-radius: 50%;
+    width: 90%;
+}
+
+.footer {
+    height: 15vh;
+}
+
+.pad {
+    padding-top: 50px;
+    margin-top: -50px;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+
+.obama {
+    width: 15rem;
+}
